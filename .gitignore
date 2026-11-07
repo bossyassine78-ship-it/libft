@@ -1,0 +1,8 @@
+*.o
+*.a
+/examples/list_map
+/demo
+*.out
+core
+core.*
+.DS_Store
